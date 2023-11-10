@@ -1,0 +1,28 @@
+.habilidades-fotos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 3rem 2rem;
+}
+
+.habilidades-fotos-itens {
+    border: 2px solid transparent;
+    text-align: center;
+    transition: 0.2s;
+    background: rgb(211, 203, 203);
+    border-radius: 4px;
+    padding: 2rem;
+}
+
+.habilidades-fotos-itens p {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+}
+
+.habilidades-fotos-itens:hover {
+    border-radius: 4px;
+    box-shadow: 0 0 8px rgb(66, 53, 106);
+    transform: scale(1.1);
+}

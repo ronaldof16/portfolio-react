@@ -1,0 +1,9 @@
+footer {
+    background: rgb(95, 92, 92);
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    padding: 1.5rem;
+}

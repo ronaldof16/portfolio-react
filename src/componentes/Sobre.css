@@ -1,0 +1,45 @@
+.sobre {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.sobre-foto img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.sobre-texto h3 {
+    font-size: 2rem;
+    padding-bottom: 0.75rem;
+}
+
+.sobre-texto p {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.sobre-texto a {
+    margin-right: 1rem;
+    text-decoration: none;
+}
+
+.link-github {
+    color: rgb(94, 9, 174);
+}
+
+.link-linkedin {
+    color: blue;
+}
+
+.icone-github {
+    font-size: 2rem;
+    color: rgb(94, 9, 174);
+    margin-right: 0.2rem;
+}
+
+.icone-linkedin {
+    font-size: 2rem;
+    color: blue;
+    margin-right: 0.2rem;
+}
