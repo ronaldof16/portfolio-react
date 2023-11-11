@@ -1,4 +1,7 @@
 .btn {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-right: 0.75rem;
     text-align: right;
 }
 
