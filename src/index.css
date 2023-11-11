@@ -12,7 +12,7 @@ body {
     color: rgb(35, 34, 34);
 }
 
-.App {
+.container {
     max-width: 1000px;
     margin: 0 auto;
     padding: 3rem 0.75rem;
