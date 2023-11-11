@@ -7,10 +7,10 @@ import Footer from './componentes/Footer.js';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <div className="btn">
         <button>dark / light</button>
-    </div>
+      </div>
       <Header />
       <Sobre />
       <Habilidades />
