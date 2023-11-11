@@ -3,7 +3,7 @@ import "./Header.css";
 
 function Header() {
     return (
-        <div className="cabecalho">
+        <div className="cabecalho container">
             <h1>Ronaldo Fernando</h1>
             <nav>
                 <ul className="menu">

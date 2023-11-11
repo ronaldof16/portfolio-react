@@ -6,7 +6,7 @@ import "./Habilidades.css";
 
 function Habilidades() {
   return (
-    <div id='habilidades'>
+    <div id='habilidades' className='container'>
         <h2>Habilidades</h2>
             <div className="habilidades-fotos">
                 <div className="habilidades-fotos-itens">

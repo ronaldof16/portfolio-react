@@ -3,7 +3,7 @@ import "./Projetos.css";
 
 function Projetos() {
   return (
-    <div id="projetos">
+    <div id="projetos" className='container'>
         <h2>projetos</h2>
         <div className="projetos">
             <div className="projetos-item">

@@ -4,8 +4,8 @@ import "./Sobre.css";
 
 function Sobre () {
   return (
-    <div id='sobre'>
-        <h2 className="subtitulo">sobre</h2>
+    <div id='sobre' className='container'>
+        <h2>sobre</h2>
             <div className="sobre">
                 <div className="sobre-foto">
                    <img src={imgSobre} alt='Foto de perfil'/> 
